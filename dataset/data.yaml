@@ -1,0 +1,7 @@
+names:
+- player
+nc: 1
+path: D:/MSc/DS 5216 - Artificial Intelligence/PAS02_DTS2430/dataset
+test: images/test
+train: images/train
+val: images/val

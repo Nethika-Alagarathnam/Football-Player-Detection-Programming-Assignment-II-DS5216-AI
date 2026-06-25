@@ -1,0 +1,2 @@
+Model,Dataset,Classes,Train images,Val images,Test images,Epochs,Image size,Precision,Recall,mAP@0.50,mAP@0.50:0.95
+YOLOv8n (fine-tuned),Custom sports dataset,player,218,46,48,50,416,0.9309,0.8599,0.8842,0.651
