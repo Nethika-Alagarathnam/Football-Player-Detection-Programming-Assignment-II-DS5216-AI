@@ -1,7 +1,7 @@
-# DS5216 — Artificial Intelligence | Programming Assignment 02
+# DS5216 - Artificial Intelligence | Programming Assignment 02
 ## Football Player Detection, Tracking & Pose Estimation using YOLOv8
 
----
+-
 
 ## Overview of my Project
 
