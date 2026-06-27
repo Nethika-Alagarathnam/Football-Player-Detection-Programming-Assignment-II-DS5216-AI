@@ -24,12 +24,12 @@ The pipeline has four notebooks
 
 - **Google Drive link:** *(https://drive.google.com/drive/folders/1PCjux_xYi3og3Vlcb5sOzWfYW6FoL95x?usp=sharing)*
 - The Drive folder contains below lists
-  - 01 - Dataset — raw video clips
-  - 02 - Sports_player_detection_Yolov8n — nano model training outputs
-  - 03 - Sports_player_detection_Yolov8s — small model training outputs
-  - 04 - Comparison Details — comparison charts and CSV
-  - 05 - Output_keypoints — annotated pose estimation videos and screenshots
-  - 06 - Player Detection [Bounding Box].avi — final detection output video (43.6 MB)
+  - 01 - Dataset - raw video clips
+  - 02 - Sports_player_detection_Yolov8n - nano model training outputs
+  - 03 - Sports_player_detection_Yolov8s - small model training outputs
+  - 04 - Comparison Details - comparison charts and CSV
+  - 05 - Output_keypoints - annotated pose estimation videos and screenshots
+  - 06 - Player Detection [Bounding Box].avi - final detection output video (43.6 MB)
 
 Frame extraction was done with OpenCV, sampling **every 10th frame** from each video using "cv2.VideoCapture". Frames were saved as ".jpg" files named with the sport label and clip name (football_Football_01_frame0010.jpg).
 
